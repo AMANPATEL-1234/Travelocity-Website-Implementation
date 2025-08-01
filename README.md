@@ -24,4 +24,3 @@ This project was created as part of my front-end web development learning journe
 ## 👤 Author
 
 Created by Aman Patel (Collaborated with team members) 
-In collaboration with Masai School's Front-End Development curriculum
